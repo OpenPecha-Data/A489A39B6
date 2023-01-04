@@ -1,0 +1,19 @@
+id: A489A39B6
+title: Prayer to Drukpa Kunley
+type: translation
+pechas:
+- IFA6914C1
+- IB581E4A6
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:27:15.355375
+  last_modified_at: 2023-01-04 11:27:15.355387
+  collections:
+  - Adeu Rinpoche Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  IFA6914C1/7D51: '6000'
+  IB581E4A6/6BC0: '6000'
